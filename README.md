@@ -50,11 +50,11 @@ The rotation mechanism is inspired by Andy Sloane's [blog post](https://www.a1k0
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/ascii-rotating-cube.git
+   git clone https://github.com/aniketmishr/ascii-rotating-shapes.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ascii-rotating-cube
+   cd ascii-rotating-shapes
    ```
 3. Compile the code:
    ```bash
